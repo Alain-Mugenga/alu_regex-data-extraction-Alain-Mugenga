@@ -1,5 +1,5 @@
-Regex Validator – Python Script Welcome to this simple yet handy Python script designed to validate common data formats using Regular Expressions (regex). If you're dealing with email addresses, URLs, phone numbers, or currency values and want a quick way to check their validity, this script has got you covered.
-
+Regex Extraction:
+ 
 1.What It Does:
  *This script uses Python’s re module to validate:
 
